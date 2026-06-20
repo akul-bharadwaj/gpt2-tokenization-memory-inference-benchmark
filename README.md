@@ -1,5 +1,7 @@
 # GPT-2 Tokenization, Memory Analysis & Inference Benchmarking
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QPWqYnoHeMtQd9k4hRqoQTArIoMKP1An?usp=sharing)
+
 This project explores the practical systems-level behaviour of GPT-2 style language models through tokenization analysis, parameter memory estimation, activation memory profiling, and CPU/GPU inference benchmarking.
 
 The work was completed as part of the **Large Language Models: A Hands-On Approach** course by **CCE, IISc Bengaluru**.
