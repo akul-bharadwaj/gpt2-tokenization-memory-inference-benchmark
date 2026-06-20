@@ -67,14 +67,6 @@ URL: `https://www.gutenberg.org/cache/epub/11/pg11.txt`
 - psutil
 - Google Colab with T4 GPU
 
-## Repository Structure
-
-```text
-.
-├── Tokenization_GPT-2_Analysis_and_GPU_Inference.ipynb
-└── README.md
-```
-
 ## Main Results Summary
 
 ### Tokenization
